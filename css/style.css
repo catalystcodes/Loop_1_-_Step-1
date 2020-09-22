@@ -1,0 +1,10 @@
+body {
+    background-color: aqua;
+}
+
+.container {
+    margin: 8rem 15rem;
+    height: 30rem;
+    background-color: white;
+    border-radius: 5px;
+}
