@@ -4,7 +4,79 @@ body {
 
 .container {
     margin: 8rem 15rem;
-    height: 30rem;
+    height: 23rem;
     background-color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    width: 5rem;
+    margin-top: 3.5rem;
+}
+
+h2 {
+    color: blue;
+    font-weight: bolder;
+    font-size: large;
+    padding-top: 3rem;
+    padding-bottom: 1.5rem;
+    /* margin-left: 2rem; */
+}
+
+p {
+    color: gray;
+    line-height: normal;
+}
+
+.p1 {
+    font-size: xx-large;
+    font-weight: bolder;
+    color: blue;
+}
+
+.mobile,
+.desktop,
+.tv {
+    text-align: center;
+}
+
+.desktop:hover {
+    background-color: whitesmoke;
+    cursor: pointer;
+    /* width: 20rem; */
+    height: 20rem;
+    /* display: flex; */
+    margin-top: 1rem;
+    margin-bottom: 1rem;
     border-radius: 5px;
+    text-align: center;
+    transition: 0.7s;
+}
+
+.mobile:hover {
+    background-color: whitesmoke;
+    cursor: pointer;
+    /* width: 20rem; */
+    height: 20rem;
+    /* display: flex; */
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    text-align: center;
+    transition: 0.7s;
+}
+
+.tv:hover {
+    background-color: whitesmoke;
+    cursor: pointer;
+    /* width: 20rem; */
+    height: 20rem;
+    /* display: flex; */
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    text-align: center;
+    transition: 0.7s;
 }
