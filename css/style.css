@@ -9,6 +9,8 @@ body {
     border-radius: 10px;
     display: flex;
     justify-content: space-around;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 img {
@@ -46,10 +48,10 @@ p {
     background-color: whitesmoke;
     cursor: pointer;
     /* width: 20rem; */
-    height: 20rem;
+    /* height: 20rem; */
     /* display: flex; */
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    /* margin-top: 1rem; */
+    /* margin-bottom: 1rem; */
     border-radius: 5px;
     text-align: center;
     transition: 0.7s;
@@ -59,10 +61,10 @@ p {
     background-color: whitesmoke;
     cursor: pointer;
     /* width: 20rem; */
-    height: 20rem;
+    /* height: 20rem; */
     /* display: flex; */
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    /* margin-top: 1rem; */
+    /* margin-bottom: 1rem; */
     border-radius: 5px;
     text-align: center;
     transition: 0.7s;
@@ -72,10 +74,10 @@ p {
     background-color: whitesmoke;
     cursor: pointer;
     /* width: 20rem; */
-    height: 20rem;
+    /* height: 20rem; */
     /* display: flex; */
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    /* margin-top: 1rem; */
+    /* margin-bottom: 1rem; */
     border-radius: 5px;
     text-align: center;
     transition: 0.7s;
