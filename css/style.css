@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background-color: deepskyblue;
 }
 
 .container {
@@ -8,9 +8,12 @@ body {
     background-color: white;
     border-radius: 10px;
     display: flex;
-    justify-content: space-around;
+    /* flex-grow: 3; */
+    /* justify-content: space-around; */
     padding-top: 2rem;
     padding-bottom: 2rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
 }
 
 img {
@@ -42,6 +45,7 @@ p {
 .desktop,
 .tv {
     text-align: center;
+    flex-grow: 1;
 }
 
 .desktop:hover {
