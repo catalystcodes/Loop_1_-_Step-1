@@ -8,8 +8,6 @@ body {
     background-color: white;
     border-radius: 10px;
     display: flex;
-    /* flex-grow: 3; */
-    /* justify-content: space-around; */
     padding-top: 2rem;
     padding-bottom: 2rem;
     padding-right: 2rem;
@@ -27,7 +25,6 @@ h2 {
     font-size: large;
     padding-top: 3rem;
     padding-bottom: 1.5rem;
-    /* margin-left: 2rem; */
 }
 
 p {
@@ -51,10 +48,6 @@ p {
 .desktop:hover {
     background-color: whitesmoke;
     cursor: pointer;
-    /* height: 20rem; */
-    /* display: flex; */
-    /* margin-top: 1rem; */
-    /* margin-bottom: 1rem; */
     border-radius: 5px;
     text-align: center;
     transition: 0.7s;
@@ -63,11 +56,6 @@ p {
 .mobile:hover {
     background-color: whitesmoke;
     cursor: pointer;
-    /* width: 20rem; */
-    /* height: 20rem; */
-    /* display: flex; */
-    /* margin-top: 1rem; */
-    /* margin-bottom: 1rem; */
     border-radius: 5px;
     text-align: center;
     transition: 0.7s;
@@ -76,11 +64,6 @@ p {
 .tv:hover {
     background-color: whitesmoke;
     cursor: pointer;
-    /* width: 20rem; */
-    /* height: 20rem; */
-    /* display: flex; */
-    /* margin-top: 1rem; */
-    /* margin-bottom: 1rem; */
     border-radius: 5px;
     text-align: center;
     transition: 0.7s;
